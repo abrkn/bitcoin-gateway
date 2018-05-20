@@ -11,7 +11,7 @@
     "ws": "^0.6.5"
   },
   "name": "bitcoin-gateway-legacy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "confirmed.js",
   "devDependencies": {},
   "scripts": {
